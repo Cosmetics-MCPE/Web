@@ -1,15 +1,35 @@
-# Cosmeticsmcpe WEB
-Cosmeticsmcpe Website and stuff like that.
+# Hi, I'm Chaosfelix! 👋
+And this is the Website that i made for Cosmeticsmcpe!
 
-Included is:
-Sql file 
-Hompage cosmeticsmcpe.eu
-Download page downloads.cosmeticsmcpe.eu
-Xatalyst download page
-Discord page discord.cosmeticsmcpe.eu
+## Included
 
-This Website is not 100% Selfwritten
-Its made from a old free Template that got so much edited that maiby 1-2 are left from it everything else is selfcode,from friends or w3schools and also highly edited!
+- Websites like 
 
-If you knew bug fixes additions or something else like this add it in a pull request! 
+Main side: cosmeticsmcpe.eu
+
+
+download side: downloads.cosmeticsmcpe.eu
+
+and other sides
+
+- Databse and Connection to it
+
+
+## Code from
+- [@Chaosfelix](https://github.com/Chaosfelix4451)
+- [@W3Schools](https://www.w3schools.com)
+- [@Other]()
+
+
+## Help me get it Better
+
+If you are a good web developer and want to help out
+
+just make a pull request
+
+Remember the `databseconnect.php` is not included because its contain sentensive data!
+
+#
+This website is not 100% Selfmade and maiby contain licesed code!
+
 
